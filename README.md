@@ -6,11 +6,11 @@
 - 💞️ Open to collaboration on any coding project.
 
 ### Skills
-
-![Next.js](https://img.shields.io/badge/NEXT.js-3776AB?style=for-the-badge&logo=NEXT.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3776AB?style=for-the-badge&logo=TailwindCSS&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-E34F26?style=for-the-badge&logo=Docker&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/Postgres-FF6C37?style=for-the-badge&logo=PostgresSQL&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=next.js&logoColor=blac)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,6 +18,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 
 ### 📫 Reach Me
