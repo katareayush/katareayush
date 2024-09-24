@@ -18,7 +18,7 @@
 
 ### 📫 Reach Me
 - Email: [katareayush2005@gmail.com](mailto:katareayush2005@gmail.com),[e23cseu1356@bennett.edu.in](mailto:e23cseu1356@bennett.edu.in)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaitanya%20Kharya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-katare/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Katare-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-katare/)
 
 ### 📈 GitHub Stats
 ![katareayush's Streak](https://github-readme-streak-stats.herokuapp.com/?user=katareayush&theme=radical&hide_border=true)
