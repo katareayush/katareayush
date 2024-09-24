@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ayush Katare
+# Hi, I’m Ayush Katare
 
 ### About Me
 - 👀 I’m interested in  **Full-Stack Development** , **Mobile App Development** and **Problem Solving**.
