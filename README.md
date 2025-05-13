@@ -3,7 +3,7 @@
 ### About Me
 - 👀 I’m interested in  **Full-Stack Development** , **Mobile App Development** and **Problem Solving**.
 - 🌱 Second year student of **BTech. Computer Science and Engineering** at **Bennett University**.
-- 💞️ Open to collaboration on any coding project.
+- 💞️ Open to collaboration or contact me if you have any MVP Idea.
 
 ### Skills
 ![Next.js](https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=next.js&logoColor=blac)
